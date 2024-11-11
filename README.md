@@ -1,4 +1,4 @@
-o-Do App
+To-Do App
 A clean and user-friendly To-Do List web app that helps you manage your tasks with the option to mark tasks as "Done", delete tasks, and view the creation date for each task. 
 Built using HTML, CSS, and JavaScript.
 
